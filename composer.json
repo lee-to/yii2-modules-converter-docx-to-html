@@ -1,0 +1,19 @@
+{
+  "name": "lee-to/yii2-modules-converter-docx-to-html",
+  "description": "Converter DOCX to HTML (Module for Yii2)",
+  "type": "modules",
+  "homepage": "https://github.com/lee-to/yii2-modules-converter-docx-to-html",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Danil Shutsky",
+      "email": "leetoplayaz@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
