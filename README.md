@@ -2,3 +2,6 @@
 
 # Установка
 composer require lee-to/yii2-modules-converter-docx-to-html
+
+#License
+The MIT License (MIT). Please see License File for more information.
